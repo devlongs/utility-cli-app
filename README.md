@@ -1,4 +1,4 @@
-Beginners Project
+CLI Project
 ==========================================
 
 ## Running Locally
